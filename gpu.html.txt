@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Promoção RTX 5060</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #0f172a;
+            color: white;
+            text-align: center;
+            padding: 40px;
+        }
+
+        h1 {
+            color: #22c55e;
+        }
+
+        img {
+            width: 300px;
+            margin: 20px 0;
+            border-radius: 10px;
+        }
+
+        .preco {
+            font-size: 28px;
+            color: #facc15;
+            margin: 20px 0;
+        }
+
+        .botao {
+            background-color: #22c55e;
+            color: black;
+            padding: 15px 25px;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+        }
+
+        .botao:hover {
+            background-color: #16a34a;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Placa de vídeo NVIDIA com o melhor custo-benefício entrou em promoção!</h1>
+
+    <h2>RTX 5060 GALAX</h2>
+
+    <img src="gpu.jpg" alt="RTX 5060 GALAX">
+
+    <p>Uma das melhores opções para quem busca alto desempenho em jogos com excelente custo-benefício.</p>
+
+    <div class="preco">R$ 2.294,50 à vista</div>
+
+    <a class="botao" href="https://www.exemplo.com" target="_blank">
+        Ver promoção
+    </a>
+
+</body>
+</html>
